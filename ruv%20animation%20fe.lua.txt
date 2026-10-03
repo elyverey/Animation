@@ -41,7 +41,7 @@ local buttonOrder = {
 }
 
 local CACHE_FILE_NAME = "animation_bundle_data_cache.json"
-local ANIM_CACHE_URL = "https://raw.githubusercontent.com/TribalFootball/TuffTeto/main/animation_bundle_data_cache.json"
+local ANIM_CACHE_URL = "https://raw.githubusercontent.com/ruvtrading-commits/Animation/refs/heads/main/animation_bundle_data_cache.json"
 local SEEN_BUNDLES_FILE = "seen_anim_bundles_cache.json"
 local EQUIPPED_FILE = "FeUgcAnim.json"
 local SAVED_BUNDLES_FILE = "FeUgcAnim_Bookmarks.json"
